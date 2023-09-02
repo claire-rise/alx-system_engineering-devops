@@ -37,8 +37,6 @@ This Projec will be auto-corrected with Ubuntu 20.04 LTS.
 - How to print the groups a user is in
 - How to print the effective userid
 
-### 
-
 ## Requirements
 
 ### General
